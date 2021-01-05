@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main0801() {
 	//标识符命名规则
 	/*
 		1、允许使用字母 数字 下划线

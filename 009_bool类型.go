@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main0901() {
 	//布尔类型 值为true 或者为 false
 	//var a bool //默认值为false
 	//bool类型一般用于条件判断
