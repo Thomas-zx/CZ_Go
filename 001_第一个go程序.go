@@ -7,7 +7,7 @@ import "fmt"
 //func 函数格式 main 函数名 主函数
 //程序有且只有一个主函数  无论程序中有多少函数 都会从main进入
 //() 函数参数列表 {}函数体 代码体 程序体
-func main001()  {
+func main0101()  {
 	fmt.Println("hello world")
 }
 // 注释 单行注释

@@ -28,7 +28,7 @@ func main0202() {
 	fmt.Println(sun)
 }
 
-func main() {
+func main0203() {
 	//float64 浮点型数据
 	var value float64 = 2.0
 
