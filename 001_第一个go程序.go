@@ -1,5 +1,5 @@
 //文件所属的包 在go语言中 主函数所在的包一定是main
-package main0001
+package main
 
 //导入系统包 标准输入输出包
 import "fmt"
